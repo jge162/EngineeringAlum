@@ -1,7 +1,8 @@
 {
   "index": "Introduction",
   "another": "Embedded C",
-  "advanced": "Verilog",
+  "Verilog": "Verilog",
+  "VHDL": "VHDL",
   "about": {
     "title": "About",
     "type": "page"
