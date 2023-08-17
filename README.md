@@ -1,18 +1,8 @@
-# Nextra Docs Template 
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+![profile_image](https://github.com/jge162/WebDesign/assets/31228460/c09b3bec-2936-4b9b-a193-fd29d602b473)
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+<img width="1424" alt="Screenshot 2023-08-17 at 12 20 45 AM" src="https://github.com/jge162/WebDesign/assets/31228460/be6431c2-316a-4c1d-bff5-65aa4f93770e">
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
-
-## Quick Start
-
-Click the button to clone this repository and deploy it on Vercel:
-
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
-
-## Local Development
 
 First, run `pnpm i` to install the dependencies.
 
