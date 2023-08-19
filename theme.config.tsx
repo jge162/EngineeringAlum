@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/jge162/WebDesign',
   footer: {
-    text: '©2023 EC Tech Services',
+    text: '©2023 EC, Technology Services',
   },
 }
 
