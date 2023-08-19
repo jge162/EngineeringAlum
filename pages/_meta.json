@@ -1,8 +1,8 @@
 {
   "index": "Introduction",
-  "indexes": "Verilog",
   "indexed": "VHDL",
   "embedded": "Embedded C",
+  "indexes": "Verilog",
   "about": {
     "title": "About",
     "type": "page"
