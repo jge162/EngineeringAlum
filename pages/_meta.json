@@ -3,6 +3,7 @@
   "indexed": "VHDL",
   "embedded": "Embedded C",
   "indexes": "Verilog",
+  "indexer": "Verilog",
   "about": {
     "title": "About",
     "type": "page"
