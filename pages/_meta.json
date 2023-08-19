@@ -1,6 +1,7 @@
 {
-  "index": "Introduction",
+  "indexed": "Introduction",
   "another": "Embedded C",
+  "index": "VHDL",
   "about": {
     "title": "About",
     "type": "page"
